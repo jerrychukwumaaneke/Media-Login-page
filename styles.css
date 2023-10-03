@@ -1,0 +1,15 @@
+body{padding:0px;margin:0px;}
+header {background-color:maroon; 
+	display: grid;
+	grid-template-rows: 1;
+	grid-template-columns: 50% 50%;
+	min-height: 60px;}
+	#v form div{display:inline-block;}
+	#v form label{color: white;}
+	#j h1 a{color:white;position: relative; top: 20px; left:20px;text-decoration: none;}
+	#f{color:white;text-decoration:none;}
+	#f:hover{text-decoration: underline;}
+	section { display: grid;
+		grid-template-rows: 1;
+		grid-template-columns: 60% 50%;
+ }
